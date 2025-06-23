@@ -1,2 +1,2 @@
 # CYBERFORCESMSTOOL
-SMS bomber hizmetinizde
+Egitim Amaclidir Sorumluluk Kullananlara aittir
